@@ -1,0 +1,52 @@
+
+        fieldset{
+            background-color:rgb(35, 37, 44);
+            width: 500px; 
+            padding-top: 40px; 
+            border: none;          
+        }
+        img{
+            border-top-left-radius: 20px;
+            border-top-right-radius: 20px;
+        }
+        .container{
+            max-width: 100%;
+            max-height: 100%;
+            background-color: rgb(48, 49, 54);
+            width: 350px;
+            border-radius: 20px; 
+        }
+        button{
+            width: 150px;
+            height: 40px;
+            border-radius: 10px;
+            border: none;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 16px;
+        }
+        .left{
+            text-align: left;
+            margin-left: 20px;
+        }
+        .ft{
+            width: 350px;
+            background-color: rgb(14, 19, 24);
+            border-bottom-left-radius: 20px;
+            border-bottom-right-radius: 20px;
+            height: 40px;
+            text-align: center;
+            padding-top: 20px;
+            font-size: 12px;
+            
+        }
+        h1,h2,h3,p{
+            color: antiquewhite;
+        }
+        h4{
+            color: orangered;
+        }
+        #bl{
+            color: white;
+            background-color:rgb(80, 147, 226);
+        }
+     
